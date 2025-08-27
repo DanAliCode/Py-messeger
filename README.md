@@ -109,10 +109,6 @@ Você pode usá-lo, modificá-lo e distribuí-lo livremente, desde que mantenha 
 
 💡 Criado com ❤️ usando **Python + Streamlit**
 
-```
 
-
-Quer que eu também gere um **requirements.txt** para você com as dependências exatas do projeto?
-```
 ## Author:
 Desenvolvido por DanAliCode ❤️
