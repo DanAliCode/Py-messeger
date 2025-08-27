@@ -1,6 +1,3 @@
-Aqui está um **README.md** bem estruturado para o seu projeto **PyMesseger** 🚀
-
-````markdown
 # 🐍 PyMesseger
 
 PyMesseger é um **aplicativo de mensagens simples** desenvolvido em **Python** utilizando o [Streamlit](https://streamlit.io/).  
@@ -34,7 +31,7 @@ O objetivo do projeto é permitir que múltiplos usuários possam se registrar, 
 ```bash
 git clone https://github.com/seu-usuario/pymesseger.git
 cd pymesseger
-````
+
 
 ### 2️⃣ Criar ambiente virtual (opcional, mas recomendado)
 
